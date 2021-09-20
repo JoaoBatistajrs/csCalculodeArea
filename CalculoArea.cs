@@ -3,54 +3,54 @@
 
 namespace CalculoArea
 {  
-    public class Retangulo
+    public class CalculoArea
     {
 	   
-		public Retangulo()
+		public CalculoArea()
         {
             this.Altura = 0;
             this.Base = 0;
         }
-        //Base do retângulo
-        private double baseRet;
+        //Base do objeto
+        private double baseObj;
 
         public double Base
         {
             get { 
-                return baseRet; 
+                return baseObj; 
                 } 
             set { 
-                if (value >= 0) baseRet = value; 
-                else baseRet = 0;
+                if (value >= 0) baseObj = value; 
+                else baseObj = 0;
                 }
         }
 
-        //Altura do retângulo
-        private double alturaRet;
+        //Altura do objeto
+        private double alturaObj;
 
 
         public double Altura
         {
             get { 
-                return alturaRet; 
+                return alturaObj; 
                 }
             set { 
-                if( value >= 0) alturaRet = value; 
-                else alturaRet =0;
+                if( value >= 0) alturaObj = value; 
+                else alturaObj =0;
                 }
         }
 
         //Calculo de altura vezes base;
         public double Area
         {
-            get { return alturaRet*baseRet; }
+            get { return alturaObj*baseObj; }
         }   
 
         public void exibeDados()
         {
             Console.WriteLine("Base informada: " + this.Base);
             Console.WriteLine("Altura informada: " + this.Altura);
-            Console.WriteLine("De acordo com as informações inseridas, a Area do seu retângulo é: "+ this.Area);
+            Console.WriteLine("De acordo com as informações inseridas, a Area do seu Objeto é: "+ this.Area);
         }
 
 	}

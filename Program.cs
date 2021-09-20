@@ -7,15 +7,15 @@ namespace CalculoArea
         static void Main(string[] args)
         {
             
-            Retangulo retangulo = new Retangulo();    
+            CalculoArea calculoArea = new CalculoArea();    
             Console.WriteLine();        
             Console.WriteLine("Esta é sua cálculadora de áreas");
             Console.WriteLine("Por favor informe a Base para qual deseja realizar o calculo: ");
-            retangulo.Base = double.Parse(Console.ReadLine());
+            calculoArea.Base = double.Parse(Console.ReadLine());
             Console.WriteLine("Ótimo, obrigado. Agora informe a Altura: ");
-            retangulo.Altura = double.Parse(Console.ReadLine());
+            calculoArea.Altura = double.Parse(Console.ReadLine());
             Console.WriteLine();    
-            retangulo.exibeDados();
+            calculoArea.exibeDados();
             Console.ReadKey();
         }
     }

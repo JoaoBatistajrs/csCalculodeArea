@@ -6,7 +6,16 @@ namespace CalculoArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Retangulo retangulo = new Retangulo();    
+            Console.WriteLine();        
+            Console.WriteLine("Esta é sua cálculadora de áreas");
+            Console.WriteLine("Por favor informe a Base para qual deseja realizar o calculo: ");
+            retangulo.Base = double.Parse(Console.ReadLine());
+            Console.WriteLine("Ótimo, obrigado. Agora informe a altura: ");
+            retangulo.Altura = double.Parse(Console.ReadLine());
+            retangulo.exibeDados();
+            Console.ReadKey();
         }
     }
 }

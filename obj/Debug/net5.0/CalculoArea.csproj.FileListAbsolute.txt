@@ -1,0 +1,16 @@
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.AssemblyReference.cache
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfoInputs.cache
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfo.cs
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.exe
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.deps.json
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.json
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.dev.json
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.dll
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\ref\CalculoArea.dll
+C:\Dev\CalculoArea\CalculoArea\bin\Debug\net5.0\CalculoArea.pdb
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.dll
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\ref\CalculoArea.dll
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.pdb
+C:\Dev\CalculoArea\CalculoArea\obj\Debug\net5.0\CalculoArea.genruntimeconfig.cache

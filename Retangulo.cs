@@ -48,9 +48,9 @@ namespace CalculoArea
 
         public void exibeDados()
         {
-            Console.WriteLine("Base: " + this.Base);
-            Console.WriteLine("Altura: " + this.Altura);
-            Console.WriteLine("Area: "+ this.Area);
+            Console.WriteLine("Base informada: " + this.Base);
+            Console.WriteLine("Altura informada: " + this.Altura);
+            Console.WriteLine("De acordo com as informações inseridas, a Area do seu retângulo é: "+ this.Area);
         }
 
 	}
